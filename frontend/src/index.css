@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-music-dark: #121212;
+  --color-music-card: #1e1e1e;
+  --color-music-accent: #bb86fc;
+  --color-music-accentHover: #9965f4;
+  --color-music-text: #ffffff;
+  --color-music-textMuted: #b3b3b3;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #121212;
+  color: #ffffff;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
