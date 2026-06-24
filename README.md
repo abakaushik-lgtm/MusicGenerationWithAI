@@ -2,7 +2,7 @@
 
 Melody Forge AI is a state-of-the-art web application that leverages Deep Learning to train on MIDI files and autonomously compose original music. It features a modern, responsive, and beautiful dashboard interface built with React, paired with a robust Python backend powered by FastAPI and TensorFlow.
 
-![Melody Forge AI Dashboard](frontend/src/assets/react.svg) *(Screenshot placeholder)*
+![Melody Forge AI Dashboard](screenshot.png)
 
 ## ✨ Features
 
